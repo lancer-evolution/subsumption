@@ -1,4 +1,4 @@
-# subsumtion
+# subsumption
 
 ardroneをルンバのように動かすための開発リポジトリ
 ![](image/gazebo.jpg)
