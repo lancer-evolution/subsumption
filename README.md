@@ -24,5 +24,8 @@ rosrun subsumtion psd_auto
 ## detailes
 
 * psd
+ps3を用いてdroneをコントロールでき、前方に障害物が存在した場合、強制backする。
 
 * psd_auto
+droneがルンバのように自動で動き回る。
+現時点では、前方に進み障害物があれば後退し、回転した後またまた前進する。

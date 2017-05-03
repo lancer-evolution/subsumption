@@ -65,7 +65,7 @@ void psdSub::cmd_pub(geometry_msgs::Twist& tel_twist){
 int main(int argc, char** argv)
 {
 
-  ros::init(argc, argv,"subsumtion");
+  ros::init(argc, argv,"subsumption");
   psdSub psd;
   TeleopArDrone teleop;
   
